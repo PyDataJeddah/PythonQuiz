@@ -1,0 +1,36 @@
+This question made by PyData Jeddah team ^^
+————————————————————————————————————
+Tweet: https://twitter.com/PyDataJeddah/status/1373303394614579204?s=20
+
+To open the file foo.txt for writing, we use:
+		1.open(“foo.txt”, “r”)
+		2.open(“foo.txt”, “w”)
+		3.open(file =“foo.txt, "r")
+		4.open(file =“foo.txt, "o")
+
+The correct answer is: outfile = open("foo.txt", "w")
+
+****
+
+Which of the following is an invalid statement?
+		1.abc = 1,000,000
+		2.a b c = 1000 2000 3000
+		3.a,b,c = 1000, 2000, 3000
+		4.a_b_c = 1,000,000
+
+The correct answer is: a b c = 1000 2000 3000
+
+****
+
+When will the else part of try-except-else be executed?
+		1.Always!
+		2.When an exception occurs.
+		3.When no exception occurs.
+		4.None of the above.
+
+
+The correct answer is: When no exception occurs
+
+****
+
+Each question cost one point. 
